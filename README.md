@@ -1,16 +1,12 @@
-## Hi there 👋
+### HI I'M VAVA
+###  Saya Mahasiswa Teknik Informatika 
+-  Syifa Fikroh Al Kaamil
+- 230605110181
+- Prak Mobile Programming  B
+### ˚໋🌷✧˚.🎀༘⋆ᡣ𐭩˚
 
-<!--
-**Syifafikroh/Syifafikroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Saat ini saya sedang belajar pemrograman mobile**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  No |Tgl   | Praktikum ke   | Topik   | Laporan   | Repo   |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|  1 |  03-09-2025 | 01   | Pengenalan mobile programming dan Setup Lingkungan   |   |   |
