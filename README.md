@@ -1,4 +1,4 @@
-### HI:fa-github-alt: I AM VAVA
+### HI >ᴗ< I AM VAVA
 ###  I am an Informatics Engineering student
 -  Syifa Fikroh Al Kaamil
 - 230605110181
@@ -20,6 +20,7 @@
 |  8 |  29-09-2025 |08| Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route|[Tugas-08](http://https://drive.google.com/file/d/1MoZk2VwRG0pUt9tLpKOeNPkea6H31PJJ/view?usp=drive_link "Tugas-08")||
 |9 |03-10-2025|09| StatefulWidget|[Tugas-09](http://https://drive.google.com/file/d/1MpjzevP5sZynhnY0tssbNaj_R3k14941/view?usp=drive_link "Tugas-09")||
 | 10|08-10-2025|10| Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|[Tugas-10](http://https://drive.google.com/file/d/1nGPPSo6b3zx74fSedNRpdAifXP1LGMMl/view?usp=drive_link "Tugas-10")||
-|11| 15-10-2025|11| Manajemen State dengan GetX|[Tugas-11](http://https://drive.google.com/file/d/1BBlTAtvwfU9HvxHk7Hh3YPc7-g5d2c0N/view?usp=drive_link "Tugas-11")||
-| 12| 25-10-2025|12| Ujian Tengah Semester|[Tugas-12](http://https://drive.google.com/file/d/1LPJJThFV0ginwdaYwgFvCk9wfLA7EQAn/view?usp=drive_link "Tugas-12")|[Repo-12](http://https://github.com/Syifafikroh/UTS_MOBILE-PROGRAMMING "Repo-12")|
-| 13| 05-11-2025|13|Manajemen State dengan GetX|[Tugas-13](http://https://drive.google.com/file/d/1--BMZx1wzIBQbye68kUHvaOOFZUsPfvv/view?usp=drive_link "Tugas-13")||
+|11| 15-10-2025|11| Managemen State GetX|[Tugas-11](http://https://drive.google.com/file/d/1BBlTAtvwfU9HvxHk7Hh3YPc7-g5d2c0N/view?usp=drive_link "Tugas-11")||
+| 12| 25-10-2025|12| Ujian Tengah Semester|[UTS](http://https://drive.google.com/file/d/1jd2IUuY4oFb3q8thA_Ep6ZzO1MhSd_3E/view?usp=sharing "UTS")|[Repo-UTS](http://https://github.com/Syifafikroh/UTS_MOBILE-PROGRAMMING "Repo-UTS")|
+| 13| 05-11-2025|13|Akses Lokasi dengan GPS di Flutter|[Tugas-12](http://http://https://drive.google.com/file/d/1LPJJThFV0ginwdaYwgFvCk9wfLA7EQAn/view?usp=drive_link "Tugas-12")||
+|14|19-11-2025|14|Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API|[Tugas-13](http://http://https://drive.google.com/file/d/1--BMZx1wzIBQbye68kUHvaOOFZUsPfvv/view?usp=drive_link  "Tugas-13")
