@@ -1,4 +1,4 @@
-### HI:fa-github-alt: I AM VAVA
+### HI I AM VAVA
 ###  I am an Informatics Engineering student
 -  Syifa Fikroh Al Kaamil
 - 230605110181
