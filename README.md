@@ -10,7 +10,7 @@
 
 |  No |Tgl   | Praktikum ke   | Topik        | Laporan   | Repository  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|  1 |  03-09-2025 | 01   | Pengenalan mobile programming dan Setup Lingkungan   |[Tugas_01](https://drive.google.com/file/d/1c8dfYXSwWHKcZVpg1nI0A-SKYUlbdcu4/view?usp=sharing "Tugas_01")  |   |
+|  1 |  03-09-2025 | 01   | Pengenalan mobile programming dan Setup Lingkungan   |[Tugas_01](https://drive.google.com/file/d/1c8dfYXSwWHKcZVpg1nI0A-SKYUlbdcu4/view?usp=sharing "Tugas_01")  | https://github.com/Syifafikroh/Pengenalan-Mobile-Programming|
 |  2 | 03-09-2025  | 02 |Widget Row dan Column|[Tugas-02](https://drive.google.com/file/d/1H5niMIJRBz1oKf82ZgE1hR7Ia1gc92Q4/view?usp=sharing "Tugas_02")|||
 |3 |  10-09-2025| 03|Pengaturan Layout Row dan Column di Flutter|[Tugas-03](https://drive.google.com/file/d/1iUtqDLrmBTrbYqDvsbXp61Z9rXMLxG8F/view?usp=drive_link "Tugas_03")||
 | 4  | 10-09-2025  | 04|Widget Flexible dan Expanded|[Tugas-04](https://drive.google.com/file/d/1U6jcvdnhGwTIm9ZqUFGQmL7cNDSuZXcY/view?usp=drive_link "Tugas_04") ||
