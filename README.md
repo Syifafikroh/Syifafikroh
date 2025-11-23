@@ -14,7 +14,7 @@
 |  2 | 03-09-2025  | 02 |Widget Row dan Column|[Tugas-02](https://drive.google.com/file/d/1H5niMIJRBz1oKf82ZgE1hR7Ia1gc92Q4/view?usp=sharing "Tugas_02")|||
 |3 |  10-09-2025| 03|Pengaturan Layout Row dan Column di Flutter|[Tugas-03](https://drive.google.com/file/d/1iUtqDLrmBTrbYqDvsbXp61Z9rXMLxG8F/view?usp=drive_link "Tugas_03")|https://github.com/Syifafikroh/aligment|
 | 4  | 10-09-2025  | 04|Widget Flexible dan Expanded|[Tugas-04](https://drive.google.com/file/d/1U6jcvdnhGwTIm9ZqUFGQmL7cNDSuZXcY/view?usp=drive_link "Tugas_04") |https://github.com/Syifafikroh/demo-flexible|
-| 5| 17-09-2025 |05|WIDGET SIZEDBOX, SPACER, DAN CARD |[Tugas-05](https://drive.google.com/file/d/1KRGi2t7JtCNnUJc_3vu6n8jpYWCanPUM/view?usp=drive_link "Tugas_05")|
+| 5| 17-09-2025 |05|WIDGET SIZEDBOX, SPACER, DAN CARD |[Tugas-05](https://drive.google.com/file/d/1KRGi2t7JtCNnUJc_3vu6n8jpYWCanPUM/view?usp=drive_link "Tugas_05")|https://github.com/Syifafikroh/demo-sizedbox|
 | 6  |  22-09-2025 | 06| Widget GridView, ListView, GridView.builder, dan ListView.builder|[Tugas-06](https://drive.google.com/file/d/1W2gLyB4JFeE27zDo22StlOZIlECWnLRq/view?usp=drive_link "Tugas-06")||
 | 7  | 29-09-2025  |07| Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route|[Tugas-07](https://drive.google.com/file/d/1OUZEOWdTvOXwMaG4c6AgZWWwQ4HPbgcg/view?usp=drive_link "Tugas_06")||
 |  8 |  29-09-2025 |08| Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route|[Tugas-08](https://drive.google.com/file/d/1MoZk2VwRG0pUt9tLpKOeNPkea6H31PJJ/view?usp=drive_link "Tugas-08")||
