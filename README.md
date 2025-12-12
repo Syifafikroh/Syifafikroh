@@ -11,7 +11,7 @@
 |  No |Tgl   | Praktikum ke   | Topik        | Laporan   | Repository  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |  1 |  03-09-2025 | 01   | Pengenalan mobile programming dan Setup Lingkungan   |[Tugas_01](https://drive.google.com/file/d/1c8dfYXSwWHKcZVpg1nI0A-SKYUlbdcu4/view?usp=sharing "Tugas_01")  | [Repo-01](https://github.com/Syifafikroh/Pengenalan-Mobile-Programming "Repo-1")|
-|  2 | 03-09-2025  | 02 |Widget Row dan Column|[Tugas-02](https://drive.google.com/file/d/1H5niMIJRBz1oKf82ZgE1hR7Ia1gc92Q4/view?usp=sharing "Tugas_02")|||
+|  2 | 03-09-2025  | 02 |Widget Row dan Column|[Tugas-02](https://drive.google.com/file/d/1H5niMIJRBz1oKf82ZgE1hR7Ia1gc92Q4/view?usp=sharing "Tugas_02")|[Repo-02](https://github.com/Syifafikroh/row-and-column "Repo-02")||
 |3 |  10-09-2025| 03|Pengaturan Layout Row dan Column di Flutter|[Tugas-03](https://drive.google.com/file/d/1iUtqDLrmBTrbYqDvsbXp61Z9rXMLxG8F/view?usp=drive_link "Tugas_03")|[Repo-03](https://github.com/Syifafikroh/aligment "Repo-3")|
 | 4  | 10-09-2025  | 04|Widget Flexible dan Expanded|[Tugas-04](https://drive.google.com/file/d/1U6jcvdnhGwTIm9ZqUFGQmL7cNDSuZXcY/view?usp=drive_link "Tugas_04") |[Repo-04](https://github.com/Syifafikroh/demo-flexible "Repo-4")|
 | 5| 17-09-2025 |05|WIDGET SIZEDBOX, SPACER, DAN CARD |[Tugas-05](https://drive.google.com/file/d/1KRGi2t7JtCNnUJc_3vu6n8jpYWCanPUM/view?usp=drive_link "Tugas_05")|[Repo-05](https://github.com/Syifafikroh/demo-sizedbox "Repo-5")|
