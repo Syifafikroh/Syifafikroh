@@ -24,3 +24,4 @@
 | 12| 25-10-2025|12| Ujian Tengah Semester|[UTS](https://drive.google.com/file/d/1jd2IUuY4oFb3q8thA_Ep6ZzO1MhSd_3E/view?usp=sharing "UTS")|[Repo-UTS](https://github.com/Syifafikroh/UTS_MOBILE-PROGRAMMING "Repo-UTS")|
 | 13| 05-11-2025|13|Akses Lokasi dengan GPS di Flutter|[Tugas-12](http://https://drive.google.com/file/d/1LPJJThFV0ginwdaYwgFvCk9wfLA7EQAn/view?usp=drive_link "Tugas-12")|[Repo-12](https://github.com/Syifafikroh/lokasi_flutter "Repo-12")|
 |14|19-11-2025|14|Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API|[Tugas-13](http://https://drive.google.com/file/d/1--BMZx1wzIBQbye68kUHvaOOFZUsPfvv/view?usp=drive_link  "Tugas-13")|[Repo-13](https://github.com/Syifafikroh/flutter_crud_api "Repo-13")|
+|15|12-12-2025|15|Ujian Akhir Semseter (UAS)| [Tugas_UAS](https://drive.google.com/file/d/1ObrA6RO6SjkWhDjNNaOAWZCsTkhCcrSO/view?usp=sharing "Tugas_UAS")|[Repo_UAS](https://github.com/Syifafikroh/uas_mobile_mymusic "Repo_UAS")|
